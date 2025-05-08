@@ -1,0 +1,27 @@
+.form-section {
+    margin-top: 40px;
+    text-align: center;
+  }
+  
+  .form-input {
+    padding: 8px;
+    width: 300px;
+    margin-bottom: 10px;
+  }
+  
+  .form-textarea {
+    width: 300px;
+    height: 100px;
+    padding: 8px;
+  }
+  
+  .form-button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #357edd;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
